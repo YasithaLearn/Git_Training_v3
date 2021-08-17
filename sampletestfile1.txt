@@ -8,3 +8,4 @@ This is the comparison lecture in sample file 1
 
 sample test file form main
 
+This is Stash lecture. Change in main file 1
