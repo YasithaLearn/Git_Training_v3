@@ -1,3 +1,6 @@
 Git revert commit 1
 
 This is sample File 1
+This is the comparison lecture in sample file 1
+
+sample test file form main
