@@ -1,5 +1,0 @@
-This is test file for sample download
-
-And this is another commit from local machine.
-
-This is third commit from my local machine
